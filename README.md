@@ -5,5 +5,5 @@ This is for displaying some interesting stuff.
 View a part of R source code with analysis: https://shuhelicopter.github.io/Data_Exploratory_Analysis_of_LC.html  
   
 [Cohort Analysis - Retention Analysis]   
-View a part of R source code with analysis: https://shuhelicopter.github.io/Data Exercise - Cohort Analysis.html 
+View a part of R source code with analysis: https://shuhelicopter.github.io/Cohort_Analysis.html
   
