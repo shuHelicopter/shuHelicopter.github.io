@@ -13,3 +13,5 @@ View a part of R source code with analysis: https://shuhelicopter.github.io/Coho
 - Build natural language processing, xgboosting models to analyze data  
 View a part of Python code with analysis: https://shuhelicopter.github.io/Side_Project_Python_Data_Sci_Pipline.ipynb
   
+**[Macys.com Data Web Scraping Project]**
+Implement BeautifulSoup and Requests in Python to web scrap the 'brand', 'link' and 'name' information of 208,898 items on Macys.com.
