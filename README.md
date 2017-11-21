@@ -11,6 +11,7 @@ View a part of R source code with analysis: https://shuhelicopter.github.io/Coho
 - Extract data from PostgreSQL database on AWS  
 - Implement exploratory data analysis  
 - Build natural language processing, xgboosting models to analyze data  
+  
 View a part of Python code with analysis: https://github.com/shuHelicopter/shuHelicopter.github.io/blob/master/Side_Project_Python_Data_Sci_Pipline.ipynb
   
 **[Macys.com Data Web Scraping Project]**  
